@@ -9,8 +9,8 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.googleapis.com/drive/v3/files/1rTVUvj2yc-McwVvd1Z5pqfEOC64c3j2N?alt=media&key=AIzaSyDnGP6M3y7_0mWl2fqtlXZkGurcZdvt0hU'
-export_file_name = 'stage-2-rerun.pth'
+export_file_url = 'https://www.googleapis.com/drive/v3/files/13UE5e5UqmOhQVdUcB1CmZZZNocFGDwi3?alt=media&key=AIzaSyDnGP6M3y7_0mWl2fqtlXZkGurcZdvt0hU'
+export_file_name = 'exportmodel2.pkl'
 
 classes = ['Afghan_hound', 'African_hunting_dog', 'Airedale', 'American_Staffordshire_terrier',
             'Appenzeller', 'Australian_terrier', 'Bedlington_terrier', 'Bernese_mountain_dog',
