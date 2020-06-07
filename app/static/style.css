@@ -73,7 +73,7 @@ button:focus {
 .bottom-right{
     position: fixed;
     bottom: 0px;
-    left: 50%;
+    left: 49%;
 }
 
 .bottom-right img{
@@ -81,5 +81,5 @@ button:focus {
     width: 2em;
     display: block;
     position: relative;
-    left: 30%;
+    left: 20%;
 }
