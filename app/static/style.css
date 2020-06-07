@@ -77,11 +77,9 @@ button:focus {
 }
 
 .bottom-right img{
+    height: 2em;
+    width: 2em;
     display: block;
     position: relative;
-    left: 50%;
-}
-
-.results-label{
-    font-size: 5em;
+    left: 30%;
 }
