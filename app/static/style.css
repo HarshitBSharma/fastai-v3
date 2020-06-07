@@ -27,7 +27,7 @@ body {
 }
 
 .content {
-    margin-top: 10em;
+    margin-top: 7em;
 }
 
 .analyze {
@@ -67,9 +67,17 @@ button.analyze-button {
 
 button:focus {
     outline: 0;
+    left: 50%;
 }
 
 .bottom-right{
-    position: absolute;
+    position: fixed;
     bottom: 0px;
+    left: 50%;
+}
+
+.bottom-right img{
+    display: block;
+    position: relative;
+    left: 50%;
 }
