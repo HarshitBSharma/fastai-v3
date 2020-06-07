@@ -81,3 +81,7 @@ button:focus {
     position: relative;
     left: 50%;
 }
+
+.results-label{
+    font-size: 5em;
+}
