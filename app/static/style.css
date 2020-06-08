@@ -71,15 +71,17 @@ button:focus {
 }
 
 .bottom-right{
-    position: fixed;
+    position: absolute;
     bottom: 0px;
-    left: 49%;
+    margin: auto;
+    left: 48%;
 }
 
 .bottom-right img{
+    position: relative;
+    left: 20%;
     height: 2em;
     width: 2em;
     display: block;
-    position: relative;
-    left: 20%;
+
 }
